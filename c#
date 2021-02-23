@@ -1,0 +1,2 @@
+int numero, resultado = 0;
+Console.WriteLine("Aqui se presenta la tabla del 1");
